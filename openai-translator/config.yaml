@@ -1,6 +1,7 @@
 OpenAIModel:
   model: "gpt-3.5-turbo"
-  api_key: "your_openai_api_key"
+  api_key: "sk-u1KVKPjooxeYYhsm318b42F4922047B8846c3f0bA33bA59c"
+  base_url: ='https://api.xiaoai.plus/v1'
 
 GLMModel:
   model_url: "your_chatglm_model_url"
