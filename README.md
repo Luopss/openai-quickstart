@@ -146,3 +146,15 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## HOMEWORK 1
+https://github.com/DjangoPeng/openai-quickstart/commit/e020fa9183f5c4b88ac41cd42e13e397f6d3b62a
+
+## HOMEWORK 2
+https://github.com/DjangoPeng/openai-quickstart/commit/46d274b153efdc67f8c079c7582cd47e969d9778
+
+## HOMEWORK 3
+https://github.com/DjangoPeng/openai-quickstart/commit/db978c5e6462899fe4b78368f9f2e1934f794238
+
+## HOMEWORK 4
+https://github.com/DjangoPeng/openai-quickstart/commit/04dd2eaf21936a01a963b17418e4d3c75604c3f5
+
